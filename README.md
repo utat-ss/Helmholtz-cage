@@ -1,7 +1,3 @@
 # Helmholtz-cage
-
-<p align="center">
-    <img src="picture/Hlogo.png">
-</p>
-
+<img src="picture/Hlogo.png">
 UTAT Helmholtz Cage design 
