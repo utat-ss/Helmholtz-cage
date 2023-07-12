@@ -5,6 +5,3 @@ The field (at the center) is defined as
 $$
 B=\frac{2\mu_{0}NI}{\pi a}\frac{2}{(1+\gamma^2)\sqrt{2+\gamma^2}}
 $$
-$$
-\bold{v_a} = \bold{C_{ab}} \bold{v_{b}}
-$$
