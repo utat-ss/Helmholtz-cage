@@ -25,7 +25,7 @@ Where...
 
 $B$ is the magnetic field (T)
 
-$\mu_{0}$ is the permeability of a vacuum constant: 4 $\pi*10^{-7}$ (N/A $^{2}$)
+$\mu_{0}$ is the permeability of a vacuum constant: 4 $\pi \times 10^{-7}$ (N/A $^{2}$)
 
 
 $a$ is $\frac{1}{2}$ of the side length (m)
@@ -53,7 +53,7 @@ $$
 I=\frac{\pi a (1+\gamma^2)(\sqrt{2+\gamma^2})B}{4\mu_0 N}
 $$
 
-Recall: Our goal is to achieve 2 gauss  $\therefore$ $B$ = 2 Gauss= 0.0002 Tesla
+Recall: Our goal is to achieve 2 gauss  $∴$ $B$ = 2 Gauss= 0.0002 Tesla
 
 Plugging in our values for $a$, $N$, $\gamma$, $\mu_0$ and $B$
 we can isolate for current.
@@ -74,7 +74,7 @@ $\gamma$ = 0.5445
 
 $B$ = 0.0002 
 
-$\mu_0 = 4\pi* 10^{-7}$
+$\mu_0 = 4\pi \times 10^{-7}$
 
-$\therefore I = 3.9825$ Amps
+$∴ I = 3.9825$ Amps
 
