@@ -1,4 +1,6 @@
 # Helmholtz calculations
+**NOTE:** This README requires a [MathJax](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related) browser plugin for the mathematics to be rendered.
+## Theory
 The purpose of this file is to describe how the current  required to generate a 2-gauss magnetic field  is obtained.
 
 <p align="center">
@@ -78,3 +80,25 @@ $\mu_0 = 4\pi \times 10^{-7}$
 
 $∴ I = 3.9825$ Amps
 
+# Side length Deduction
+
+Purpose of this section is to deduce the side length required
+
+
+Note:
+- 40 Cm total length (38.5cm in reality), therefore 20cm off origin (assuming centre of field is centre of FINCH).
+- Less than 5% variation required towards the end of the uniform space.
+
+This is the equation that defines the variation along the $x$ distance traveled away from the centre of the $z$ field. 
+
+$$\frac{B_z(x,0,0)}{B_z(0,0,0)}=1 - 0.40017(\frac{x}{a})^4$$
+
+Therefore 
+
+$$0.95=1-0.40017(\frac{0.2}{a})^4$$
+
+Therefore 
+
+$$a= 33.6cm $$
+Therefore
+sidelength = 2a = 67.27885m
