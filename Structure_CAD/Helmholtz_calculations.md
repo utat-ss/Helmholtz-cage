@@ -1,5 +1,5 @@
 # Helmholtz calculations
-NOTE: This README requires a MathJax browser plugin for the mathematics to be rendered.
+**NOTE:** This README requires a [MathJax](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima/related) browser plugin for the mathematics to be rendered.
 ## Theory
 The purpose of this file is to describe how the current  required to generate a 2-gauss magnetic field  is obtained.
 
