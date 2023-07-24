@@ -105,4 +105,5 @@ sidelength = 2a = 67.27885 cm
 
 ## Reference 
 The magnetic field calculation follows [this document](https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=3787&context=honors_theses)
+
 The sidelength calculation is follows [this document](https://ieeexplore.ieee.org/document/4278170) 
