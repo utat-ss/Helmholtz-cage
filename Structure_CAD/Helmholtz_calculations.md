@@ -102,3 +102,7 @@ Therefore
 $$a= 33.6cm $$
 Therefore
 sidelength = 2a = 67.27885m
+
+## Reference 
+
+The calculation is following [this document](https://ieeexplore.ieee.org/document/4278170) 
