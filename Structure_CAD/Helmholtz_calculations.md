@@ -101,7 +101,7 @@ Therefore
 
 $$a= 33.6cm $$
 Therefore
-sidelength = 2a = 67.27885m
+sidelength = 2a = 67.27885 cm
 
 ## Reference 
 
