@@ -93,7 +93,7 @@ This is the equation that defines the variation along the $x$ distance traveled 
 
 $$\frac{B_z(x,0,0)}{B_z(0,0,0)}=1 - 0.40017(\frac{x}{a})^4$$
 
-Therefore 
+$x$ is defined to be the largest variation from the center. Therefore 
 
 $$0.95=1-0.40017(\frac{0.2}{a})^4$$
 
