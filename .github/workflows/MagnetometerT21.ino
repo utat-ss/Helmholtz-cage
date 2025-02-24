@@ -16,6 +16,9 @@ void setup() {
 void loop() {
   // read X, Y, Z magnetic field values
   int x, y, z;
+
+  compass.read();
+
   x = compass.getX();
   y = compass.getY();
   z = compass.getZ();
